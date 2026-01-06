@@ -1,3 +1,7 @@
 .heading{
-  background
+    background-image: url("https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx3NRL2xTjnYgrDZzoXnrOaJhJx6k4GtClBzDNJEhDfL8AtO-pl6evdJNYMQs6fW4_B4O03NC5tOMUz3n5L9tJDlOlOih12gl7E0VczAyMryj-Ap-RfLJ2XD0m2MMkdaw0xDV0hqA=s1360-w1360-h1020-rw");
+    background-size: cover;
+    color: #ff0000;
+    min-height: 500px;
+    text-align: center;
 }
